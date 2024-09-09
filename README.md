@@ -1,4 +1,4 @@
-## **## README.md: Aplicação de Busca de Personagens Monster High**
+## **## README.md: Aplicação de Busca de Personagens Monster High - Imersão Dev Com Gemini**
 
 ### **Descrição**
 
